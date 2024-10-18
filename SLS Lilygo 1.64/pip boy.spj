@@ -11717,7 +11717,8 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "TABPAGE"
+                "saved_objtypeKey": "TABPAGE",
+                "tree_closed": true
               },
               {
                 "guid": "GUID96833189-369246S328413266",
@@ -13284,7 +13285,8 @@
                     "InheritedType": 11
                   }
                 ],
-                "saved_objtypeKey": "TABPAGE"
+                "saved_objtypeKey": "TABPAGE",
+                "tree_closed": true
               }
             ],
             "locked": false,
@@ -13701,12 +13703,6 @@
                           0
                         ],
                         "InheritedType": 7
-                      },
-                      {
-                        "nid": 2113642374,
-                        "strtype": "_style/Bg_Image",
-                        "strval": "assets/Images/button_checked.png",
-                        "InheritedType": 5
                       },
                       {
                         "nid": 1924702549,
@@ -14406,7 +14402,7 @@
     "theme_color2": 0,
     "uiExportFolderPath": "/Users/redhatdesign/Desktop/pip boy new 1.64/PIO/lib/ui/src",
     "projectExportFolderPath": "/Users/redhatdesign/Desktop/pip boy new 1.64/Template",
-    "backup_cnt": 63,
+    "backup_cnt": 64,
     "autosave_cnt": 0,
     "lvgl_version": "8.3.11",
     "callfuncsexport": "C_FILE",
