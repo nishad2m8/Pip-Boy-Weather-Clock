@@ -1,4 +1,4 @@
-# Pip Boy Weather Clock 
+# Pip Boy Weather Clock Using LVGL
 
 ---
 <p align="center">
@@ -16,6 +16,31 @@
 
 ---
 
-Check video on : https://youtu.be/y4AK9kuxWG8
+![alt text](Elements/IMG_2923.JPG)
 
-[...]
+Check video on 
+
+Lilygo 1.64" : https://youtu.be/y4AK9kuxWG8
+
+Cardputer : https://youtu.be/WOr_QTMYXRI
+
+---
+Update the `config.h` file your data
+```c++
+#ifndef CONFIG_H
+#define CONFIG_H
+
+// WiFi credentials (replace with your SSID and password)
+#define WIFI_SSID "SSID"
+#define WIFI_PASSWORD "PASSWORD"
+
+#define TIME_ZONE "AST-3"  // Adjust this to the desired time zone string
+
+// weatherapi.com API key
+#define API_KEY "PPI_KEY"
+// Location for weather query
+#define LOCATION "LOCATION"
+
+
+#endif // CONFIG_H
+```
