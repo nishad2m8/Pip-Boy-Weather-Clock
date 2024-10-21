@@ -25,7 +25,7 @@ Lilygo 1.64" : https://youtu.be/y4AK9kuxWG8
 Cardputer : https://youtu.be/WOr_QTMYXRI
 
 ---
-Update the `config.h` file your data
+Update the `config.h` file with your data
 ```c++
 #ifndef CONFIG_H
 #define CONFIG_H
