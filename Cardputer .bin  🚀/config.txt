@@ -1,0 +1,5 @@
+WIFI_SSID=SSID
+WIFI_PASSWORD=Passwrod
+TIME_ZONE=Time Zone
+API_KEY=weatherapi.com API key
+LOCATION=Location
